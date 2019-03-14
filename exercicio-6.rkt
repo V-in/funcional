@@ -299,4 +299,5 @@
              test-tamanho-lista
              test-todos
              test-algum
-             test-partition))
+             test-partition
+             test-menor-quociente))
